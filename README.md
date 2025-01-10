@@ -45,8 +45,8 @@ Example insights:
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/Social-Media-Performance-Analyzer.git
-cd Social-Media-Performance-Analyzer
+git clone https://github.com/manavmax/MediaMinds.git
+cd MediaMinds
 
 Install Dependencies:
 
