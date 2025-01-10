@@ -1,5 +1,7 @@
 Try it Now!
-Check out our live deployment: Try it
+*Check out our live deployment: Try it
+
+**After Future Updates
 
 ---
 
@@ -17,11 +19,13 @@ Whether you're a social media manager or a data enthusiast, this module can help
 
 2. Workflow:- Langflow: A powerful tool to create intelligent workflows that can interact with GPT models. In this project, Langflow is used to process the data and generate insights.
 
-3. Backend:- Python: The core language for implementing workflows and interacting with the database.
+3*. Backend:- Python: The core language for implementing workflows and interacting with the database.
 
-4. Frontend:- Html, Next.js, Css, Tailwind, Javascript
+4*. Frontend:- Html, Next.js, Css, Tailwind, Javascript
 
-5. Deployment:- Vercel
+5*. Deployment:- Vercel
+
+**After Future improvements.
 
 ---
 
