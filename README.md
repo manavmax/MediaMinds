@@ -1,8 +1,11 @@
-Social Media Engagement Analytics Module
+Try it Now!
+Check out our live deployment: Try it
+
+---
 
 🌟 Overview
 
-Welcome to the Social Media Engagement Analytics Module! This project aims to provide valuable insights into social media post performance by analyzing engagement data (likes, shares, comments) across different post types like carousel posts, reels, and static images. The module integrates Langflow for intelligent insights generation and uses DataStax Astra DB for efficient data storage and querying.
+Welcome to the Media Minds! This project aims to provide valuable insights into social media post performance by analyzing engagement data (likes, shares, comments) across different post types like carousel posts, reels, and static images. The module integrates Langflow for intelligent insights generation and uses DataStax Astra DB for efficient data storage and querying.
 
 Whether you're a social media manager or a data enthusiast, this module can help optimize social media strategies by analyzing engagement trends and providing actionable insights.
 
@@ -11,14 +14,15 @@ Whether you're a social media manager or a data enthusiast, this module can help
 
 🔧 Tools & Technologies
 
-DataStax Astra DB: A cloud-native database for scalable data storage and fast querying. We use it to store and manage social media engagement data.
+1. Database:- DataStax Astra DB: A cloud-native database for scalable data storage and fast querying. We use it to store and manage social media engagement data.
 
-Langflow: A powerful tool to create intelligent workflows that can interact with GPT models. In this project, Langflow is used to process the data and generate insights.
+2. Workflow:- Langflow: A powerful tool to create intelligent workflows that can interact with GPT models. In this project, Langflow is used to process the data and generate insights.
 
-Python: The core language for implementing workflows and interacting with the database.
+3. Backend:- Python: The core language for implementing workflows and interacting with the database.
 
+4. Frontend:- Html, Next.js, Css, Tailwind, Javascript
 
-
+5. Deployment:- Vercel
 ---
 
 🚀 Features
