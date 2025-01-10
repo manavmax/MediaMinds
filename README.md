@@ -41,7 +41,7 @@ Example insights:
 
 ---
 
-✨ Quick Start
+🌟 Quick Start
 
 Clone the Repository:
 
