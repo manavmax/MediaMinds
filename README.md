@@ -1,6 +1,5 @@
 Try it Now!
 Check out our live deployment: Try it
-Youtube Video:-
 
 ---
 
@@ -9,7 +8,6 @@ Youtube Video:-
 Welcome to the Media Minds! This project aims to provide valuable insights into social media post performance by analyzing engagement data (likes, shares, comments) across different post types like carousel posts, reels, and static images. The module integrates Langflow for intelligent insights generation and uses DataStax Astra DB for efficient data storage and querying.
 
 Whether you're a social media manager or a data enthusiast, this module can help optimize social media strategies by analyzing engagement trends and providing actionable insights.
-
 
 ---
 
@@ -24,6 +22,7 @@ Whether you're a social media manager or a data enthusiast, this module can help
 4. Frontend:- Html, Next.js, Css, Tailwind, Javascript
 
 5. Deployment:- Vercel
+
 ---
 
 🚀 Features
@@ -40,83 +39,49 @@ Example insights:
 
 "Reels drive 2x more comments compared to other formats."
 
+---
 
+✨ Quick Start
 
+Clone the Repository:
+
+git clone https://github.com/yourusername/Social-Media-Performance-Analyzer.git
+cd Social-Media-Performance-Analyzer
+
+Install Dependencies:
+
+pip install -r requirements.txt
+Set Environment Variables:
+Create a .env file in the root directory and add the required variables.
+
+Run the Application:
+
+python app.py
+
+Access the Application:
+Visit http://127.0.0.1:5000 in your browser.
+
+🚀 Deployment on Vercel
+
+Install the Vercel CLI:
+
+npm install -g vercel
+
+Deploy the App:
+
+vercel
+
+---
+
+📊 Showcase
 
 
 ---
 
-📦 Prerequisites
+🎥 YouTube Video
 
-Before running the module, ensure you have the following tools set up:
-
-Python 3.7+ installed.
-
-DataStax Astra DB account (to store engagement data).
-
-Langflow account for workflow creation.
-
-
-
----
-
-📚 Setup Instructions
-
-
----
-
-3. Generate Insights Using Langflow GPT Integration
-
-The workflow integrates with GPT to provide insights about the engagement data:
-
-Example Insight 1: "Carousel posts generate 20% more engagement than static posts."
-
-Example Insight 2: "Reels drive 2x more comments compared to other post types."
-
-
-This step utilizes Langflow’s GPT integration to provide AI-driven recommendations based on the collected data.
-
-
----
-
-🛠️ Running the Project
-
-1. Set up your DataStax Astra DB with the sample data as described above.
-
-
-2. Run the Python script to execute the Langflow workflow and fetch the average engagement metrics for a selected post type.
-
-
-3. View the results: Langflow will output the engagement data and generate insights such as the effectiveness of different post types.
-
-
-
-
----
-
-💡 Insights Example
-
-After running the module, you can expect insights such as:
-
-"Reels have 150% higher shares compared to static images."
-
-"Carousel posts have a higher comment-to-like ratio than other post types."
-
-"Posts with higher shares tend to have more engagement overall."
-
-
-
----
-
-📊 Future Improvements
-
-Advanced Data Analysis: Add more complex analysis, such as sentiment analysis on comments or engagement prediction.
-
-Interactive Dashboard: Implement a dashboard to visualize trends and insights in real-time.
-
-Enhanced GPT Insights: Use more advanced GPT models for deeper insights into engagement patterns.
-
-
+Watch our project in action:
+https://youtu.be
 
 ---
 
