@@ -78,6 +78,17 @@ vercel
 
 ---
 
+📊 Future Improvements
+
+Advanced Data Analysis: Add more complex analysis, such as sentiment analysis on comments or engagement prediction.
+
+Interactive Dashboard: Implement a dashboard to visualize trends and insights in real-time.
+
+Enhanced GPT Insights: Use more advanced GPT models for deeper insights into engagement patterns.
+
+
+---
+
 🎥 YouTube Video
 
 Watch our project in action:
