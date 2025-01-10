@@ -1,0 +1,10 @@
+langflow
+openai
+datastax-astra
+flask
+pandas
+fastapi
+uvicorn
+requests
+jupyterlab
+python-dotenv
