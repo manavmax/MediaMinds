@@ -77,11 +77,6 @@ vercel
 
 ---
 
-## 📊 Showcase
-
-
----
-
 ## 📊 Future Improvements
 
 Advanced Data Analysis: Add more complex analysis, such as sentiment analysis on comments or engagement prediction.
